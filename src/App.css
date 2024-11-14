@@ -1,0 +1,24 @@
+.container{
+    height: 100vh;
+}
+.h1{
+    color: blanchedalmond;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-track {
+    background: #1f1f1f;
+    visibility: hidden;
+}
+::-webkit-scrollbar-thumb {
+    background: #3e3e3e;
+    border-radius: 10px;
+    visibility: hidden;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #4a4a4a;
+}
